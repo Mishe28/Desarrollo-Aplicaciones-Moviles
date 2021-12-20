@@ -1,6 +1,4 @@
-# Desarrollo-Aplicaciones-Moviles
-# Desarrollo-Aplicaciones-Moviles
-# REPOSITORIO GRUPAL 
+# Desarrollo-Aplicaciones-Moviles - REPOSITORIO GRUPAL 
 INTEGRANTES:
 ->CAROLINA YUQUI
 ->JHONATAN QUITO
