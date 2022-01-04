@@ -50,7 +50,7 @@ class Auto implements Transporte {
   String toString() {
     return 'Auto: marca: ${this.marca}, color: ${this.color},año: ${this.anio}, radio: ${this.radio},aireAcondicionado: ${this.aireAcondicionado}, aros: ${this.aros}, quemacocos: ${this.quemacocos}';
   }*/
-  
+  int? llantas;
   void emitirSonido() => print('Piii-Piii');
   
 }
